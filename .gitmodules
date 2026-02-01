@@ -1,0 +1,3 @@
+[submodule "docker-ory"]
+	path = docker-ory
+	url = git@github.com:Samuelk0nrad/docker-ory.git
